@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>Monster World Retro Theme</name>
+	<version>1.0</version>
+	<release_date>201908110000</release_date>
+	<coder>StefLipp</coder>
+	<short_description>A Monster World HBC theme</short_description>
+	<long_description>Run this like an application to apply the theme to the Homebrew Channel. Revert to the default theme by deleting the Homebrew Channel "savegame" using the data management in the Wii System Menu.</long_description>
+</app>
